@@ -77,7 +77,7 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Created by: Seth Lippman ([seth@unreled.com](mailto:seth@unreeled.com))<br>
+Created by: Seth Lippman ([seth@unreeled.com](mailto:seth@unreeled.com))<br>
 Check out some of my other projects - [where melodies meet algorithms.](https://slip.unreeled.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
